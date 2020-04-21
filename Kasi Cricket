@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Kasilam Cricket</title>
+		<style>
+		body {
+		background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F822892163138724302%2F&psig=AOvVaw2VWOFLszAyfslmyUKd-FVY&ust=1587195122480000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDr8u_47ugCFQAAAAAdAAAAABAD");
+		font-family: "sans-serif";
+		font-size: 20px;
+		line-height: 25px;
+		}
+		table, th, td {
+		padding:10px;
+		border: 1px solid black;
+		border-collapse: collapse;
+		}
+				
+		</style>
+		</head>
+		
+		<body>
+		
+			<h1>Kasilam Cricket</h1>
+			
+			
+		<button><a href= "#Kasilam-Pathway">Kasilam Pathway</a></button> <button><a href= "#Kasi-Laws"> Kasi Cricket Laws</a></button> <button><a href= "#Kasi-Coaching-and-Umpring-Manual"> Kasi coaching and umpring manual</a></button><button><a href="#Connect"> Connect</a></button>
+				
+				<p>Kasilam is a Xhosa term or slang that translates to "my home, my township." The purpose of Kasilam cricket is to get 
+				every child, boy and girl, playing cricket. We at Kasilam cricket believe that no adult can teach a child how to play. Therefore, we want
+				to create an environment where kids are free to play the cricket where they are. Be it in the street, at home, in front of the garage, at 
+				the park. Kasilam cricket wants to get as many South African kids playing the game where they are.</p>
+				
+				<h2 id= "Kasilam-pathway">Kasilam Pathway</h2>
+				<p>Kasilam cricket has a clear pathway for kids, boys and girls, from the age of five all the way to senior cricket. For this program to work 
+				we will need the involvement of parents, schools, teachers, communities and cricket clubs. The program uses street cricket to introduce the
+				boys and girls to the game of cricket and then provides a formal program for boys and girls from the age of 9 years old all the way to 19 years of age.
+				Kids will then filter into cricket clubs within their communities to provide a strong pathway and provision of players.</p>
+				
+				<p> 
+					<table>
+						<thead>
+							<tr>
+							<th></th>
+							<th>U9</th>
+							<th>U11</th>
+							<th>U13</th>
+							<th>U15</th>
+							<th>U17</th>
+						</tr>
+						<t/head>
+						<tbody>
+							<tr>
+								<td>Players</td>
+								<td>6 a side</td>
+								<td>8 a side</td>
+								<td>11 a side</td>
+								<td>11 a side</td>
+								<td>11 a side</td>
+								</tr>
+									<td>Pitch length</td>
+									<td>15 yards</td>
+									<td>17 yards</td>
+									<td>19 yards</td>
+									<td>22 yards</td>
+									<td>22 yards</td>
+								</tr>
+								<tr>
+									<td> Max Boundary</td>
+									<td> 30 </td>
+									<td> 35 </td>
+									<td> 50 </td>
+									<td> 55 </td>
+									<td> 60 </td>
+								</tr>
+								<tr>
+									<td>Overs Per Innings</td>
+									<td>12 overs</td>
+									<td>16 overs</td>
+									<td>20 overs</td>
+									<td>20 overs</td>
+									<td>20 overs</td>
+								</tr>
+								<tr>
+									<td>Ball Size</td>
+									<td>light soft rubber ball</td>
+									<td>135gram</td>
+									<td>135 grams</td>
+									<td>156 grams</td>
+									<td>156 grams</td>
+								</tr>
+							</tbody>
+						</table>
+									
+				
+				</p>
+				<h3 id= "Kasi-Cricket-Laws"> Kasi Laws
+				<p>
+				
+				</p>
+				<h4 id= "Kasi-Coaching-and-Umpiring-Manual"> Kasi Coaching and Umpiring Manual</h4>
+				
+				<h5 id= "Contact"> Contact</h4>
+				<p>
+				Garnet Kruger
+				Email: garnett@gk-sa.co.za
+				Mobile: 082 313 0022
+				
+				</p>
+				
+				</body>
+				</html>
+				
